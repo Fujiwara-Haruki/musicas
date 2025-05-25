@@ -39,6 +39,11 @@ video{
 
 }
 
+.p-extra{
+    margin-bottom: 10px;
+    margin: 0px 15% 10px 15%
+}
+
 a{
     text-decoration: none;
     color: rgb(27, 50, 100);
